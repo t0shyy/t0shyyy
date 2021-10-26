@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steam-punk glasses
+* source:	https://sketchfab.com/3d-models/steam-punk-glasses-0e6058b4db9143dd863455aa0dcc6e66
+* author:	Zahar Kobyakov (https://sketchfab.com/Divan321)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steam-punk glasses" (https://sketchfab.com/3d-models/steam-punk-glasses-0e6058b4db9143dd863455aa0dcc6e66) by Zahar Kobyakov (https://sketchfab.com/Divan321) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
