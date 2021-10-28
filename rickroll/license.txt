@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rickroll
+* source:	https://sketchfab.com/3d-models/rickroll-9b7935fa52b34d059ffe79ac40277754
+* author:	koafranck (https://sketchfab.com/koafranck)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rickroll" (https://sketchfab.com/3d-models/rickroll-9b7935fa52b34d059ffe79ac40277754) by koafranck (https://sketchfab.com/koafranck) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
